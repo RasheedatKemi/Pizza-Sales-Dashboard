@@ -24,5 +24,9 @@ The dataset includes:
 
 - **Excel** for data cleaning, analysis, and dashboard creation  
 
-## Project Structure
+
+## Insights & Use
+
+This project helps understand sales patterns, identify popular and underperforming pizzas, monitor trends over time, and support business decisions through a visual dashboard.
+
 
